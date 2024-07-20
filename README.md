@@ -1,5 +1,6 @@
+### RoleoE7
 
-This is an application that automatically and automatically roles the store of the mobile video game Epic Seven.
+This is an application that automatically updates the tavern store of the Epic Seven mobile game and also buys mystics and covenant coins. For this it uses dependencies that allow image recognition to search for coins and mouse control to automate the process.
 
 ###  Install Dependencies
 
