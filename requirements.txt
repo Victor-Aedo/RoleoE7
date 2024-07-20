@@ -1,0 +1,7 @@
+pyautogui
+keyboard
+schedule
+opencv-python
+pillow
+numpy
+threading
