@@ -12,7 +12,7 @@ Run the main.py file using the ``` python main.py ``` command, then press the "t
 
 ### Precautions
 
-1.- Epic Seven must be run in full screen, depending on the emulator and operating system the way it is done may vary, but in most cases it is enough to press the game window and press "F11".
-2.- There is no guarantee that it will work for operating systems other than Windows.
-3.- I have not been able to verify that it works on other screen resolutions. The application was developed on a setup with a 1920 x 1080 screen, which may cause it to not work correctly on other resolutions.
+1. Epic Seven must be run in full screen, depending on the emulator and operating system the way it is done may vary, but in most cases it is enough to press the game window and press "F11".
+2. There is no guarantee that it will work for operating systems other than Windows.
+3. I have not been able to verify that it works on other screen resolutions. The application was developed on a setup with a 1920 x 1080 screen, which may cause it to not work correctly on other resolutions.
 
