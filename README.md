@@ -2,6 +2,13 @@
 
 This is an application that automatically updates the tavern store of the Epic Seven mobile game and also buys mystics and covenant coins. For this it uses dependencies that allow image recognition to search for coins and mouse control to automate the process.
 
+
+
+
+https://github.com/user-attachments/assets/486c2e7f-544c-4290-a492-68d6fddc6565
+
+
+
 ###  Install Dependencies
 
 installs the dependencies from the requirements.txt file, you can use the command ``` pip install -r requirements.txt ```
