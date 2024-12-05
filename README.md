@@ -5,7 +5,9 @@ This is an application that automatically updates the tavern store of the Epic S
 
 
 
-https://github.com/user-attachments/assets/486c2e7f-544c-4290-a492-68d6fddc6565
+https://github.com/user-attachments/assets/7265beee-b8ca-4925-b9ac-af5558374ce9
+
+
 
 
 
